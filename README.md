@@ -2,6 +2,8 @@
 
 TO-DO-LIST(Made using HTML,CSS and Javascript)
 
+You can see the website live at:
+https://salinipsasipillai.github.io/TO-DO-LIST/
 
 ABOUT THIS PROJECT:
 
